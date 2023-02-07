@@ -86,7 +86,7 @@ imag{
     background-repeat: no-repeat;
 }
 #home{
-    background-image: url(main-bg.jpg);
+    background-image: url(../main-bg.jpg);
     background-blend-mode: hard-light;
     min-height: 100vh;
 }
@@ -97,7 +97,7 @@ imag{
 /* NEWS
 --------------------*/
 #news{
-    background-image: url(news-bg.jpg);
+    background-image: url(../news-bg.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
